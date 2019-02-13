@@ -22,7 +22,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         
  print("fdfdfdfdfdf gfgfgfgfg fgfggfgfg")
         
-              IQKeyboardManager.shared.enable = true
+            //  IQKeyboardManager.shared.enable = true
         
                 let isUserLogged =  UserDefaults.standard.bool(forKey: "IsUserLogged")
         
