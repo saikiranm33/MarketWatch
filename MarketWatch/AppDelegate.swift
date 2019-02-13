@@ -20,9 +20,9 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         
- print("fdfdfdfdfdf")
+ print("fdfdfdfdfdf gfgfgfgfg fgfggfgfg")
         
-                IQKeyboardManager.shared.enable = true
+              IQKeyboardManager.shared.enable = true
         
                 let isUserLogged =  UserDefaults.standard.bool(forKey: "IsUserLogged")
         
